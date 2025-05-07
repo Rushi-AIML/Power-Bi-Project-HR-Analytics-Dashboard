@@ -6,7 +6,7 @@ This project is an HR Analytics Dashboard built using Power BI, aimed at providi
 🔍 Overview :
 The dashboard visualizes various HR metrics using interactive visuals and dynamic filters, enabling users to quickly understand workforce trends, identify areas of concern, and support strategic planning.
 
-📁 Dataset
+📁 Dataset :
 The data is sourced from a CSV file (HR_Analytics.csv) and includes fields like:
 Employee ID
 Department
@@ -27,5 +27,5 @@ Performance vs. Experience: Scatter plots and trend lines
 Interactive Filters for Year of Joining, Department, and Gender
 
 
-📌 Objective
+📌 Objective :
 The goal is to assist HR professionals in monitoring workforce metrics and deriving actionable insights from employee data.
